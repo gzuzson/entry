@@ -34,3 +34,5 @@ bin/
 
 ### .idea directory ###
 .idea
+
+local.properties
