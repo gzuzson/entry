@@ -1,4 +1,5 @@
 import { Text, View } from "react-native";
+import EntryTextInput from "@/components/EntryTextInput";
 
 export default function Index() {
   return (
@@ -9,7 +10,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Sup bitch ass nigga.</Text>
+        <Text>Love you.</Text>
     </View>
   );
 }
